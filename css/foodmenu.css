@@ -8,7 +8,7 @@ body
 {
 	height: 100vh;
 	width: 100%;
-	background-image: url("aroma.jpg");
+	background-image: url("images/aroma.jpg");
 	background-size: cover;
 	display: table;
 	background-attachment: fixed;
@@ -19,7 +19,7 @@ body
 {
 	height: 100vh;
 	width: 100%;
-	background-image: url("pptt.jpg");
+	background-image: url("images/pptt.jpg");
 	background-size: cover;
 	display: table;
 	background-attachment: fixed;
@@ -30,7 +30,7 @@ body
 {
 	height: 80vh;
 	width: 100%;
-	background-image: url("coffee.jpg");
+	background-image: url("images/coffee.jpg");
 	background-size: cover;
 	display: table;
 	background-attachment: fixed;
