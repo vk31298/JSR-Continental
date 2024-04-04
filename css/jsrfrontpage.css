@@ -1,6 +1,6 @@
 body
 {
-	background-image: url(images/landingpage.jpg);
+	background-image: url(../images/landingpage.jpg);
 	visibility: 0%;
 
 	background-size: cover;
