@@ -21,6 +21,7 @@ background-attachment: fixed;
 	background-image: URL("../images/ppt.PNG");
 	background-size: cover;
 	display: table;
+	padding-bottom:5%;
 background-attachment: fixed;
 }
 
