@@ -75,7 +75,7 @@ html
  {
  	height: 80vh;
 	width: 100%;
-	background-image: url("images/ttt.jpg");
+	background-image: URL("../images/ttt.jpg");
 	background-size: cover;
 	display: inline;
 	background-attachment: fixed;
